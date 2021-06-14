@@ -2,14 +2,14 @@
 <head>
     <h1>Welcome to BirdsNow</h1>
     <h2>Little bit about the creator of this site</h2>
-    <h3>Hi I am Nishanth! I work in a shop called bird jungle,here in birdjungle we sell the most extraordinary parrots to many owners and to promote our business we have started this site where you can place an order from our many wonderous birds and it will be delivered to your doorstep.</h3>
+    <h3>Hi I am Nishanth! I work in a shop called bird jungle,here in birdjungle we sell the most extraordinary parrots to many owners and to promote our business we have started this site where you can place an order from our many wonderous birds and it will be delivered to you at your doorstep.</h3>
     <br>
     <h3>Some of the things I like to do:
         <ul>
         <li>I like playing Soccer</li>
         <li>I like hanging around with friends and family</li>
         <li>I like eating</li>
-        <li>and I like playing around with my pet parrot</li>
+        <li> I like playing around with my pet parrot</li>
         </ul>
     </h3>
 </head>
@@ -26,6 +26,7 @@
     }
 </style>
 <body>
+<p>Our in persons shops are located in some parts of the world hence is the reason why created this site,so its more accessible to everybody.</p>
 <img src="https://www.kaytee.com/-/media/Images/Kaytee-NA/US/learn-care/ask-the-pet-bird-experts/ways-to-show-parrot-love/PARROT%20png.png"
 <p>Here we have the rarest birds like the spix's macaw,red larens,cockatiel and many more.Our mission is to try to save as many of these birds from going extinct from these poachers,so we ask you to get one where they can be safe.These parrots are fun,family friendly, and very energetic.And birds dont need to much maintanence as much as dogs and cats you just have to take them for a weekly checkup in the first month you bought them.To adopt one you just have to click the link right below which will take to you the site </p>
 <a href="https://www.birdsnow.com/">
